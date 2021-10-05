@@ -87,6 +87,7 @@ html{
     font-size: 1.6rem;
     padding-left: 60px;
     padding-right: 60px;
+    outline: none;
 }
 .search-input:hover{
     background-color: var(--botons-color);
